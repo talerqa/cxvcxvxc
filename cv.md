@@ -26,7 +26,7 @@ BSU faculty of law
 
 ## Skills ##
  * Hard Skills: HTML, CSS, JavaScript
- * Soft Skills: Communication, Teamwork, Self-motivation, Problem Solving, Critical Thinking
+ * Soft Skills: Communication, Teamwork, Self-motivation, Problem Solving, Critical Thinking, Responsibility
 
 ## English ##
 A2
