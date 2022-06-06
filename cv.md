@@ -4,13 +4,12 @@
 * telegram: talerqa
 * discord: talerqa
 
-## Objective ##
-Looking for a position of a front-end Developer
-
 ## Summary ##
 Junior front-end developer with a desire to learn and grow in a development.
 I'm really hard worker and purposeful. My goal is to become a profession front-end developer.
 
+## Objective ##
+Looking for a position of a front-end Developer
 
 ## Code Example ##
 ```
