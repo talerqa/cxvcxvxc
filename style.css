@@ -1,3 +1,14 @@
+@media (max-width: 768px) {
+  .section {
+    width: 100%;
+  }
+}
+
+
+html {
+  scroll-behavior: smooth; 
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -25,7 +36,12 @@ body {
 
 /* Header */
 
-.header__container {
+.header {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.header-container {
   display: flex;
   justify-content: space-between;
 }
@@ -37,12 +53,30 @@ body {
   border-radius: 50%;
 }
 
+
+
 .header__title {
   font-size: 68px;
 }
 
 .header__right {
-  padding-right: 58px;
+  /* padding-right: 58px; */
+}
+
+.header__right-title {
+
+
+  margin-top: 5px;
+  margin-bottom: 40px;
+ 
+}
+
+.title {
+  color: #000;
+  font-size: 38px;
+  background-color: rgb(50, 61, 57);
+  text-align: center;
+  color: #fff;
 }
 
 .header__list {
@@ -65,3 +99,42 @@ body {
   text-decoration: none;
   color: #666;
 }
+
+
+/* Main */
+
+.main {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.main-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main__nav {
+display: flex;
+}
+
+.main__skills__title {
+
+}
+
+.main__languages-item {
+  color: #000;
+
+}
+
+.main__languages-item__level {
+  color: red;
+}
+
+/* Footer */
+
+
+.footer {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
