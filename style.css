@@ -54,7 +54,7 @@ body {
 }
 
 .header__title {
-  font-size: 68px;
+  font-size: 60px;
 }
 
 .header__right {
@@ -116,14 +116,9 @@ body {
   display: flex;
 }
 
-
 .main__languages-item {
   color: #000;
-
 }
-
-
-
 
 .main__nav-soft-skills {
   padding-left: 15px;
@@ -135,13 +130,25 @@ body {
   padding-right: 15px;
 } 
 
+.main__example-link {
+  text-decoration: none;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: #000 ;
+}
 
+.main__example-list {
+  list-style: none;
+  padding-left: 10px;
+}
 
 .main__nav-hard-skills-list,
 .main__nav-soft-skills-list,
 .main__languages-list {
   list-style: none;
 }
+
+
 
 .main__languages-item {
   font-weight: 800;
@@ -155,10 +162,54 @@ body {
   font-weight: 500;
 }
 
+.main__education-text__title {
+  font-weight: 800;
+}
+
 /* Footer */
 
 
 .footer {
+  margin-top: 10px;
   padding-left: 5px;
   padding-right: 5px;
+
+}
+
+.footer-container {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgba(23, 80, 48, 0.334);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+.footer__github {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.footer__github-logo {
+  width: 25px;
+  height: 25px;
+}
+
+.footer__github-link {
+  font-size: 17px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000;
+}
+
+.footer__year {
+  text-align: center;
+}
+
+.footer__icon-rss {
+  width: 70%;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
